@@ -1,0 +1,15 @@
+E:\Gdm_Toddy\Homework3\2\bin\Debug\net7.0\2.exe
+E:\Gdm_Toddy\Homework3\2\bin\Debug\net7.0\2.deps.json
+E:\Gdm_Toddy\Homework3\2\bin\Debug\net7.0\2.runtimeconfig.json
+E:\Gdm_Toddy\Homework3\2\bin\Debug\net7.0\2.dll
+E:\Gdm_Toddy\Homework3\2\bin\Debug\net7.0\2.pdb
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.dll
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\refint\2.dll
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.pdb
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+E:\Gdm_Toddy\Homework3\2\obj\Debug\net7.0\ref\2.dll
